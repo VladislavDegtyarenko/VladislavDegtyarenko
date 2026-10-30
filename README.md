@@ -6,6 +6,14 @@ I build web applications with React, TypeScript and Next.js. My current focus is
 
 ## Selected projects
 
+### Minesweeper
+
+A Next.js game with free play, daily challenges, saved progress, account score sync, and leaderboards. Its public Storybook documents seven real application components with 40 stories, editable controls, interaction tests, and automated accessibility checks. The component examples run without an account or database connection.
+
+**React · Next.js · TypeScript · Storybook · Vitest · Playwright**
+
+[Play](https://minesweeper-classix.vercel.app/) · [Explore Storybook](https://vladislavdegtyarenko.github.io/react-minesweeper/?path=/docs/introduction--docs) · [Code and implementation notes](https://github.com/VladislavDegtyarenko/react-minesweeper)
+
 ### 2048
 
 A browser game with one-move undo, saved progress, multiple board sizes, and keyboard, touch, and mouse controls. Game rules live separately from the interface, with Redux Toolkit managing the board and browser storage preserving progress.
