@@ -6,6 +6,14 @@ I build web applications with React, TypeScript and Next.js. My current focus is
 
 ## Selected projects
 
+### Folio: Currency Converter
+
+A Chrome extension for converting amounts into one or several currencies, with saved preferences and offline access to the last validated rates.
+
+**React · TypeScript · Chrome Extensions**
+
+[Get Folio](https://chromewebstore.google.com/detail/folio-currency-converter/ipalahidibcjajbjbcdjphamlbhneomn) · [Source code](https://github.com/VladislavDegtyarenko/folio-currency-converter)
+
 ### Minesweeper
 
 A Next.js game with free play, daily challenges, saved progress, account score sync, and leaderboards. Its public Storybook documents seven real application components with 40 stories, editable controls, interaction tests, and automated accessibility checks. The component examples run without an account or database connection.
